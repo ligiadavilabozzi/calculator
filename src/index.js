@@ -21,13 +21,20 @@ function App() {
   }
 
   function inputOperator(operation) {
-    const number = parseInt(display);
-    setNumber1(number);
+    if (firstNumber !== null
+      && operator !== null
+      && !resetDisplay) {
+      const result = operations();
+      setFirstNumber(result);
+    } else {
+      setFirstNumber(parseInt(display));
+    }
+
     setOperator(operation);
     setResetDisplay(true);
   }
 
-  function calculate() {
+  function operations() {
     const secondNumber = parseInt(display);
     let total
     if (operator === "+") {
@@ -39,8 +46,15 @@ function App() {
     } else {
       total = firstNumber / secondNumber
     }
+    return total
+  }
 
-    setDisplay(String(total));
+  function calculate() {
+    if (firstNumber === null || operator === null || resetDisplay) return;
+
+    const total = operations()
+
+    setDisplay(total);
   }
 
   function reset() {
@@ -80,7 +94,7 @@ function App() {
           <button onClick={() => inputOperator("*")} > * </button>
           <button onClick={() => inputOperator("-")} > - </button>
           <button onClick={() => inputOperator("+")} > + </button>
-          <button onClick={() => inputOperator("=")} > = </button>
+          <button onClick={calculate} > = </button>
         </OperatorKeys >
       </Keypad>
     </Main >
