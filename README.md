@@ -49,7 +49,7 @@ Link:
 <a href="https://calculator-pi-gules.vercel.app/"> App's Link </a>
 
 ## 💻**Technologies and Others**
-<p align="center"> 
+<p align="left"> 
  <img src="https://img.shields.io/badge/nodeJs-v%2014.17.6-grenn"/>
  <img src="https://img.shields.io/badge/npm-v%206.14.15-blueviolet" alt="npm"/>
  <img src="https://img.shields.io/badge/react-v%2017.0.2-9cf"/>
@@ -59,7 +59,7 @@ Link:
 
 ## ✍🏽**License**
 This project could be used by anyone! MIT License
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/github/license/facebook/react">
 </p>
 
