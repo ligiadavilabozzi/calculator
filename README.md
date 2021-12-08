@@ -7,7 +7,7 @@
 - [About](#about) 
 - [Features](#features) 
 - [Usage](#usage)
--   [Prerequisites](#prerequisites)
+ - [Prerequisites](#prerequisites)
 - [Technologies and Other](#technologies-and-others)
 - [License](#license)
 
