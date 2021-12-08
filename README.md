@@ -3,11 +3,12 @@
 </p>
 
 # Simple Calculator
-<p align="center">
-[About](#about) 
-[Features](#features) 
-</p>
 
+- [About](#about) 
+- [Features](#features) 
+- [Usage](#usage)
+- [Technologies and Other](#technologies-and-others)
+- [License](#license)
 
 
 ## **About**
