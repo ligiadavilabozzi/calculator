@@ -11,7 +11,7 @@
     <a href="License">License</a>
 </p>
 
-## **About**
+## **About**(#About)
 This calculator was built to train React's "useState" function
 
 ## **Features**
