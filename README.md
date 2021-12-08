@@ -1,6 +1,7 @@
-<p align="center"><img src="https://cdn3d.iconscout.com/3d/free/thumb/ios-calculator-2978357-2476734.png" alt="logo calculator" width="200" height="200"/>
+<p align="center"><img src="https://cdn3d.iconscout.com/3d/free/thumb/ios-calculator-2978357-2476734.png" alt="logo calculator" width="100" height="100"/>
 
 # Simple Calculator
+    <a href="https://calculator-pi-gules.vercel.app/">Application</a>
 
 <p align="center">
     <a href="About">About</a>   
@@ -20,9 +21,10 @@ This calculator was built to train React's "useState" function
 
 ## **Usage**
 ### Prerequisites:
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Before starting, you need the following tools installed on your machine:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+ Besides that it's nice to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
+ 
 ### How to Install: 
 - To download the project follow the instructions bellow:
 
@@ -41,6 +43,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### Deploy
 Link: 
 <a href="https://calculator-pi-gules.vercel.app/"> App's Link </a>
+
 ## **Technologies and Others**
 <p align="center"> 
  <img src="https://img.shields.io/badge/nodeJs-v%2014.17.6-grenn"/>
