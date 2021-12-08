@@ -4,14 +4,14 @@
     <a href="https://calculator-pi-gules.vercel.app/">Application</a>
 
 <p align="center">
-    <a href="About">About</a>   
+    [about](#about) 
     <a href="Features">Features</a>
     <a href="Usage">Usage</a>
     <a href="Technologies">Technologies</a>
     <a href="License">License</a>
 </p>
 
-## **About**(#About)
+## **About**
 This calculator was built to train React's "useState" function
 
 ## **Features**
