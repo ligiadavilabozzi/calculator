@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn3d.iconscout.com/3d/free/thumb/ios-calculator-2978357-2476734.png" alt="logo calculator" width="100" height="100"/>
+<img src="https://cdn3d.iconscout.com/3d/free/thumb/ios-calculator-2978357-2476734.png" alt="logo calculator" width="100" height="100"/>
 
 # Simple Calculator
     - [About](#about) 
