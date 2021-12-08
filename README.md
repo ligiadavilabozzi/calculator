@@ -1,8 +1,6 @@
 <p align="center"><img src="https://cdn3d.iconscout.com/3d/free/thumb/ios-calculator-2978357-2476734.png" alt="logo calculator" width="100" height="100"/>
 
 # Simple Calculator
-    <a href="https://calculator-pi-gules.vercel.app">Application</a>
-
     - [About](#about) 
     <a href="Features">Features</a>
     <a href="Usage">Usage</a>
