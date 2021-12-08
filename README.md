@@ -1,7 +1,12 @@
-<img align="center" alt="Calc" width="150px" src="https://cdn3d.iconscout.com/3d/free/thumb/ios-calculator-2978357-2476734.png" />
+<p align="center">
+<img alt="Calc" width="150px" src="https://cdn3d.iconscout.com/3d/free/thumb/ios-calculator-2978357-2476734.png" />
+</p>
 
 # Simple Calculator
+<p align="center">
 [About](#about) 
+[Features](#features) 
+</p>
 
 
 
