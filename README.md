@@ -1,12 +1,9 @@
-[<img align="center" alt="Calc" width="150px" src="https://cdn3d.iconscout.com/3d/free/thumb/ios-calculator-2978357-2476734.png" />]
+<img align="center" alt="Calc" width="150px" src="https://cdn3d.iconscout.com/3d/free/thumb/ios-calculator-2978357-2476734.png" />
 
 # Simple Calculator
     - [About](#about) 
-    <a href="Features">Features</a>
-    <a href="Usage">Usage</a>
-    <a href="Technologies">Technologies</a>
-    <a href="License">License</a>
-</p>
+
+
 
 ## **About**
 This calculator was built to train React's "useState" function
