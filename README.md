@@ -1,9 +1,9 @@
-![Logo](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F37a1667f-5900-4822-9ead-f689f520ab5c%2FDesign_sem_nome_(4).png?table=block&id=aaf340b9-21f9-49d7-b8f2-83686400003b&spaceId=32a5d6ea-24a7-4c00-b2d0-6e17e86d20ae&width=250&userId=2b8d9fa7-f82d-4041-8908-9e70e13372e1&cache=v2")
+<img src="https://cdn3d.iconscout.com/3d/free/thumb/ios-calculator-2978357-2476734.png" />
 
 # Simple Calculator
 
 <p align="center">
-    <a href="About">About</a>
+    <a href="About">About</a>   
     <a href="Features">Features</a>
     <a href="Usage">Usage</a>
     <a href="Technologies">Technologies</a>
