@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+![Logo](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F37a1667f-5900-4822-9ead-f689f520ab5c%2FDesign_sem_nome_(4).png?table=block&id=aaf340b9-21f9-49d7-b8f2-83686400003b&spaceId=32a5d6ea-24a7-4c00-b2d0-6e17e86d20ae&width=250&userId=2b8d9fa7-f82d-4041-8908-9e70e13372e1&cache=v2")
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Simple Calculator
 
-## Available Scripts
+<p align="center">
+    <a href="About">About</a>
+    <a href="Features">Features</a>
+    <a href="Usage">Usage</a>
+    <a href="Technologies">Technologies</a>
+    <a href="License">License</a>
+</p>
 
-In the project directory, you can run:
+## **About**
+This calculator was built to train React's "useState" function
 
-### `yarn start`
+## **Features**
+- [x] Style
+- [x] Input Numbers and Operators
+- [x] Math Operation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## **Usage**
+### Prerequisites:
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+### How to Install: 
+- To download the project follow the instructions bellow:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+1. git clone https://github.com/ligiadavilabozzi/calculator
+2. cd calculator
+```
 
-### `yarn test`
+- Install the dependencies and start the project:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+1. npm install
+2. npm start
+```
 
-### `yarn build`
+### Deploy
+Link: 
+<a href="https://calculator-pi-gules.vercel.app/"> App's Link </a>
+## **Technologies and Others**
+<p align="center"> 
+ <img src="https://img.shields.io/badge/nodeJs-v%2014.17.6-grenn"/>
+ <img src="https://img.shields.io/badge/npm-v%206.14.15-blueviolet" alt="npm"/>
+ <img src="https://img.shields.io/badge/react-v%2017.0.2-9cf"/>
+ <img src="https://img.shields.io/badge/styled--components-v%205.3.3-ff69b4"/>
+</p>
+   
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## **License**
+This project could be used by anyone! MIT License
+<p align="center">
+<img src="https://img.shields.io/github/license/facebook/react">
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
