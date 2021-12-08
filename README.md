@@ -3,6 +3,7 @@
 </p>
 
 # Simple Calculator
+<a href="https://calculator-pi-gules.vercel.app/"> App's Link </a>
 
 - [About](#about) 
 - [Features](#features) 
@@ -14,21 +15,21 @@
 - [License](#license)
 
 
-## **About**
+## 📝**About**
 This calculator was built to train React's "useState" function
 
-## **Features**
+## ✅**Features**
 - [x] Style
 - [x] Input Numbers and Operators
 - [x] Math Operation
 
-## **Usage**
-### Prerequisites:
+## ⚙️**Usage**
+ ### Prerequisites:
 Before starting, you need the following tools installed on your machine:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
  Besides that it's nice to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
  
-### How to Install: 
+ ### How to Install: 
 - To download the project follow the instructions bellow:
 
 ```
@@ -43,7 +44,7 @@ Before starting, you need the following tools installed on your machine:
 2. npm start
 ```
 
-### Deploy
+ ### Deploy
 Link: 
 <a href="https://calculator-pi-gules.vercel.app/"> App's Link </a>
 
@@ -56,7 +57,7 @@ Link:
 </p>
    
 
-## **License**
+## ✍🏽**License**
 This project could be used by anyone! MIT License
 <p align="center">
 <img src="https://img.shields.io/github/license/facebook/react">
