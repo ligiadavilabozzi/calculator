@@ -3,7 +3,7 @@
 </p>
 
 # Simple Calculator
-<a href="https://calculator-pi-gules.vercel.app/"> App's Link </a>
+<a href="https://calculator-pi-gules.vercel.app/"> Application Deploy </a>
 
 - [About](#about) 
 - [Features](#features) 
@@ -48,7 +48,7 @@ Before starting, you need the following tools installed on your machine:
 Link: 
 <a href="https://calculator-pi-gules.vercel.app/"> App's Link </a>
 
-## **Technologies and Others**
+## 💻**Technologies and Others**
 <p align="center"> 
  <img src="https://img.shields.io/badge/nodeJs-v%2014.17.6-grenn"/>
  <img src="https://img.shields.io/badge/npm-v%206.14.15-blueviolet" alt="npm"/>
